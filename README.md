@@ -26,6 +26,6 @@ mind listlimbo - list of all limbo
 mind setlimboentry - create a limbo entry point
 mind setlimboexit - create a exit from limbo
 mind removelimboentry - remove a limbo entry point
-mind removelimboexit - remove a limbo exit point**
+mind removelimboexit - remove a limbo exit point
 
 My Telegram channel: https://t.me/fakemattress
